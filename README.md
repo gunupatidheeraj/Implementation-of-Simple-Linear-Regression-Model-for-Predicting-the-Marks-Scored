@@ -29,7 +29,6 @@ df.head()
 ~~~
 df.tail()
 ~~~
-~~~
 #segregating data to variables
 X=df.iloc[:,:-1].values
 X
